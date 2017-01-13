@@ -16,6 +16,7 @@ public class P2 {
      */
     public static int a1(){return 0;}
     public static int a2(){return 0;}
+    public static int a3(){return 0;}
     public static void main(String[] args) {
         // TODO code application logic here
         
